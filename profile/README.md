@@ -27,9 +27,6 @@
 #### 3D 캐릭터 동작 생성 기능
 - 사진/영상/카메라 를 이용해 모션/포즈 애니메이션 데이터생성Gltf 로 추출
 
-#### 참고)
-<img width="1565" height="1102" alt="Image" src="https://github.com/user-attachments/assets/46fa835a-77cc-4fc0-98ce-b2799ba37fd6" />
-
 <br>
 
 ## 요구 기술 스택 /언어
