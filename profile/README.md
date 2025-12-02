@@ -1,4 +1,4 @@
-<img width="1321" height="499" alt="Image" src="https://github.com/user-attachments/assets/1d5c1282-44fd-4e60-883c-fe80cc1f5cb5" />
+<img width="1909" height="681" alt="Image" src="https://github.com/user-attachments/assets/8bebe304-f6cf-4dfa-8ae9-96e4445f8924" />
 
 # 툰스퀘어 기업연계 프로젝트 :books:
 
